@@ -1,6 +1,7 @@
 project:
   title: "matthewjzammit"
   type: website
+  output-dir: docs
 
 website:
   title: "Matthew J Zammit Notebook"
