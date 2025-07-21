@@ -1,0 +1,15 @@
+project:
+  title: "matthewjzammit"
+  type: website
+
+website:
+  title: "Matthew J Zammit Notebook"
+  navbar:
+    left:
+      - text: Home
+        href: matthewjzammit.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
